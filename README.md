@@ -139,5 +139,5 @@ python faq_chatbot.py
 
 
 📧 Gmail: rajukumardeewan313@gmail.com
-| 💼 LinkedIn | [linkedin.com/in/raju-kumar-ai]...
+💼 LinkedInwww.linkedin.com/in/raju-kumar-ai
 
